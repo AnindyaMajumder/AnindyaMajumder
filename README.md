@@ -74,14 +74,6 @@
 
 ---
 
-### 🌍 Live Visitor Tracker
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=flat-square" />
-</p>
-
----
-
 ### 🌈 Contributions in Style
 
 <p align="center">
