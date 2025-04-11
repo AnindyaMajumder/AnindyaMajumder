@@ -25,10 +25,10 @@
 ```
 
 - 🧑‍🎓 Senior-Year CS Pupil | Teaching Assistant | Aspiring Software Engineer  
-- 📚 Published 10+ academic & personal projects in AI, Web, and Systems  
+- 📚 Researching on Surgical Data Science 
 - 💼 Ex-Assistant Director (Creative) @ BRACU Computer Club
-- ![image](https://github.com/user-attachments/assets/224d87b6-d07c-4e3c-8f8e-716b31a1f5fc) Former Core Team Member @ BRACU Mongol Tori
-- 🏆 10+ Certifications | 10+ Achievements   
+- 🤖 Former Core Team Member @ BRACU Mongol Tori
+- 🏆 15+ Certifications and Achievements   
 - 💬 Passionate about AI, Computer Vision and Scalable Solutions
 
 ---
