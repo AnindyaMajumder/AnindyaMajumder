@@ -1,132 +1,126 @@
-# 🚀 Anindya Majumder | Aspiring Software Engineer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051937,100:2c4b7c&height=200&section=header&text=ANINDYA%20MAJUMDER&fontSize=50&fontColor=38B6FF&animation=twinkling&fontAlignY=38&descAlignY=55&descAlign=62&stroke=38B6FF&strokeWidth=1" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+Tech+Universe!;Aspiring+Software+Engineer+%7C+Crafting+Elegant+Solutions!;Open+to+Research,+Internships,+and+Collaborations!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=28&duration=3000&pause=500&color=38B6FF&center=true&vCenter=true&width=600&lines=Aspiring+SoftwareL+Engineer;Computer+Vision+Enthusiast" />
 </p>
-
----
 
 <div align="center">
   <a href="https://whoisanindya.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-%2300bfff.svg?&style=for-the-badge&logo=firefox&logoColor=white&color=38B6FF" />
   </a>
   <a href="mailto:anindyamajumder.54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=38B6FF" />
   </a>
-  <a href="https://www.linkedin.com/in/anindyamajumder">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anindya-majumder">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=38B6FF" />
+  </a>
+  <a href="#profile-views">
+    <img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=VISITORS&color=38B6FF&style=for-the-badge" />
   </a>
 </div>
 
----
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
-### 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
+
 
 <div align="center">
-
-```bash
-> Crafting logic like stardust ✨ — elegantly scattered, infinitely powerful, and lighting up the tech cosmos.
-```
-
- 🧑‍🎓 Senior-Year CS Pupil | Teaching Assistant | Aspiring Software Engineer  
- 📚 Researching on Surgical Data Science  
- 💼 Ex-Assistant Director (Creative) @ BRACU Computer Club  
- 🤖 Former Core Team Member @ BRACU Mongol Tori  
- 🏆 15+ Certifications and Achievements  
- 💬 Passionate about AI, Computer Vision, and Scalable Solutions  
-
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🧑‍🎓 Senior-Year CS Pupil | Teaching Assistant | Aspiring Software Engineer</li>
+          <li>📚 Researching on Surgical Data Science</li>
+          <li>💼 Ex-Assistant Director (Creative) @ BRACU Computer Club</li>
+          <li>🤖 Former Core Team Member @ BRACU Mongol Tori</li>
+          <li>🏆 15+ Certifications and Achievements</li>
+          <li>💬 Passionate about AI, Computer Vision, and Scalable Solutions</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
-### 🌍 Visitor Count
+<h2 align="center">🛠️ Tech Stacks</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,git,linux,vscode&perline=9" />
 </div>
 
----
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
-### 🛠️ My Tech Toolbox
+<h2 align="center">🚀 Featured Projects </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,git,linux,vscode&perline=8" />
+  <table>
+    <tr>
+      <th>⭐ PROJECT</th>
+      <th>⚙️ TECHNOLOGY</th>
+      <th>📌 STATUS</th>
+    </tr>
+    <tr>
+      <td>📔 <b>Online Journal App</b></td>
+      <td>React, Spring, BART, MongoDB</td>
+      <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+    </tr>
+    <tr>
+      <td>💠 <b>ShapeDrawer</b></td>
+      <td>C#, Splashkit</td>
+      <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+    </tr>
+    <tr>
+      <td>✨ <b>Portfolio</b></td>
+      <td>Next.js, Tailwind, Framer Motion</td>
+      <td><img src="https://img.shields.io/badge/🔥-LIVE-38B6FF?style=for-the-badge&logoColor=white" alt="Live" /></td>
+    </tr>
+    <tr>
+      <td>🕵️ <b>Real-Time Signboard Detection</b></td>
+      <td>Python, YOLOv5, Jupyter Notebook</td>
+      <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+    </tr>
+  </table>
 </div>
 
----
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
-### 🚀 Highlighted Projects
+<h2 align="center" id="profile-views">📊 Github Analytics</h2>
 
 <div align="center">
+  <!-- GitHub Stats Card with Matrix Animation -->
+  <a href="https://github.com/AnindyaMajumder">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&icon_color=38B6FF&text_color=81D4FA&card_width=300&rank_icon=github" width="49%" alt="GitHub Stats" />
+  </a>
   
-| ⭐ Project | ⚙️ Tech Stack | 📌 Status |
-|--------|------------|--------|
-| 📔 **Online Journal App** | React, Spring, BART, MongoDB | ✅ Completed |
-| 💠 **ShapeDrawer** | C#, Splashkit | ✅ Completed |
-| ✨ **Portfolio** | Next.js, Tailwind, Framer Motion | ✅ Live |
-| 🕵️ **Real-Time Signboard Detection** | Python, YOLOv5, Jupyter Notebook | ✅ Completed |
-
+  <!-- Streak Stats Card with Matrix Animation -->
+  <a href="https://github.com/AnindyaMajumder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=dark&hide_border=true&background=051937&stroke=38B6FF&ring=38B6FF&fire=A181F4&currStreakLabel=38B6FF&sideNums=81D4FA&currStreakNum=81D4FA&sideLabels=38B6FF&dates=81D4FA" width="49%" alt="Streak Stats" />
+  </a>
+  
+  <br/>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github.com/AnindyaMajumder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnindyaMajumder&layout=compact&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&text_color=81D4FA&langs_count=6&card_width=400" width="44%" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Trophy Animation -->
+  <a href="https://github.com/AnindyaMajumder">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnindyaMajumder&theme=algolia&no-frame=true&column=-1&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="54%" alt="Trophies" />
+  </a>
+  
+  <br/>
+  <!-- Enhanced Animated Activity Graph -->
+  <a href="https://github.com/AnindyaMajumder">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&bg_color=051937&color=38B6FF&line=38B6FF&point=81D4FA&area=true&hide_border=true&radius=16&height=300&custom_title=CONTRIBUTION%20MATRIX&title_color=38B6FF&line_width=2&point_size=5&area_color=A181F460" width="98%" alt="Activity Graph" />
+  </a>
 </div>
 
----
-
-### 📊 GitHub Analytics
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
 <div align="center">
-  <a href="https://github.com/AnindyaMajumder">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="animation: fadeIn 2s;" />
-  </a>
-  <a href="https://github.com/AnindyaMajumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=tokyonight&hide_border=true" alt="Streak Stats" style="animation: fadeIn 2s 0.5s;" />
-  </a>
-  <br />
-  <a href="https://github.com/AnindyaMajumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=tokyonight" style="animation: fadeIn 2s;" />
-  </a>
-  <a href="https://github.com/AnindyaMajumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnindyaMajumder&theme=tokyonight" style="animation: fadeIn 2s 0.5s;" />
-  </a>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&hide_border=true&area=true" />
-  </div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:051937,100:2c4b7c&animation=twinkling" width="100%" />
 </div>
-
----
-
-
-### 📬 Reach Out To Me
-
-<div align="center">
-
-> "Ideas are easy. Execution is everything." – Steve Jobs
-
-🌐 **Portfolio**: [whoisanindya.vercel.app](https://whoisanindya.vercel.app)  
-📧 **Email**: anindyamajumder.54@gmail.com  
-💼 **Open to research, internships & collaborations**  
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<style>
-@keyframes fadeIn {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-img {
-  animation: fadeIn 2s ease-in-out;
-}
-</style>
