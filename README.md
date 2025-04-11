@@ -119,8 +119,6 @@
   </a>
 </div>
 
-<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:051937,100:2c4b7c&animation=twinkling" width="100%" />
 </div>
