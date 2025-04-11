@@ -41,23 +41,23 @@
 
 ### 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=tokyonight)
-![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=tokyonight)
+![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnindyaMajumder&theme=tokyonight)
 
 ---
 
 ### 🌐 Live Visitor Count
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Visits&color=0e75b6&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=for-the-badge)
 
 ---
 
 ### 🌈 Cool Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -65,9 +65,9 @@
 
 > "Ideas are easy. Execution is everything." – Steve Jobs
 
-- 🔗 [Portfolio Website](https://yourportfolio.com)
-- 📬 anindya.majumder@g.bracu.ac.bd
-- 💼 Always open to research, internship, and collaborative opportunities
+- 🔗 [Portfolio Website](https://whoisanindya.vercel.app)
+- 📬 [Mail](mailto:anindya.majumder@g.bracu.ac.bd)
+- 💼 Always open to research, and collaborative opportunities
 
 ---
 
