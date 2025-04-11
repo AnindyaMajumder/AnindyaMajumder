@@ -1,75 +1,106 @@
-# 🚀 Anindya Majumder | Tech Alchemist
+# 🚀 Anindya Majumder | Aspiiring Software Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+Tech+Universe!;CS+Grad+%7C+Research+Lover+%7C+Builder)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Full-stack+Dev+%7C+Researcher+%7C+Builder+of+Beautiful+Things" alt="Typing SVG" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300bfff.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:anindya.majumder@g.bracu.ac.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+<p align="center">
+  <a href="https://whoisanindya.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:anindyamajumder.54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anindyamajumder">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🧠 About Me
 
 ```bash
-> I convert coffee ☕ into code and ideas into impactful solutions.
+> Crafting logic like stardust ✨ — elegantly scattered, infinitely powerful, and lighting up the tech cosmos.
 ```
 
-- 🧑‍🎓 Fresh CS Graduate | Former OOP TA | Research & Development Enthusiast  
+- 🧑‍🎓 Senior-Year CS Pupil | Teaching Assistant | Aspiring Software Engineer  
 - 📚 Published 10+ academic & personal projects in AI, Web, and Systems  
-- 💼 Worked as Assistant Director (Creative) at BRACU Computer Club  
-- 🏆 10+ Certifications | 10+ Achievements | 3 Professional Experiences  
-- 💬 I love blending aesthetics with code to create meaningful tech
+- 💼 Ex-Assistant Director (Creative) @ BRACU Computer Club
+- ![image](https://github.com/user-attachments/assets/224d87b6-d07c-4e3c-8f8e-716b31a1f5fc) Former Core Team Member @ BRACU Mongol Tori
+- 🏆 10+ Certifications | 10+ Achievements   
+- 💬 Passionate about AI, Computer Vision and Scalable Solutions
 
 ---
 
-### 🔧 Technologies & Tools
+### 🌍 Visitor Count
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,nodejs,java,spring,mongodb,py,fastapi,git,figma,linux,vscode)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
-### 🔥 Popular Projects
+### 🛠️ My Tech Toolbox
 
-| Project | Tech Stack | Status |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,git,linux,vscode&perline=8" />
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+| ⭐ Project | ⚙️ Tech Stack | 📌 Status |
 |--------|------------|--------|
-| 🌾 Smart Agriculture AI | React, FastAPI, ML, MongoDB | 🛠️ Building |
-| 💬 Healthcare Translator | FastAPI, Whisper, GenAI | ✅ Completed |
-| ✨ Valentine Surprise Website | Next.js, Tailwind, Framer Motion | ✅ Live |
-| 🧠 Organ Colorization Research | Python, PyTorch, Transformers | 🧪 Ongoing |
+| 📔 Online Journal App | React, Spring, BART, MongoDB | ✅ Completed |
+| 💠 ShapeDrawer | C#, Splashkit | ✅ Completed |
+| ✨ Portfolio | Next.js, Tailwind, Framer Motion | ✅ Live |
+| 🕵️ Real-Time Signboard Detection | Python, YOLOv5, Jupyter Notebook | ✅ Completed |
 
 ---
 
 ### 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=tokyonight)
-![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnindyaMajumder&theme=tokyonight)
-
----
-
-### 🌐 Live Visitor Count
-
-![Profile views](https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=for-the-badge)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnindyaMajumder&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌈 Cool Contribution Graph
+### 🌍 Live Visitor Tracker
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=Profile+Visits&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
-### 📢 Let’s Connect
+### 🌈 Contributions in Style
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 📬 Reach Out To Me
 
 > "Ideas are easy. Execution is everything." – Steve Jobs
 
-- 🔗 [Portfolio Website](https://whoisanindya.vercel.app)
-- 📬 [Mail](mailto:anindya.majumder@g.bracu.ac.bd)
-- 💼 Always open to research, and collaborative opportunities
+- 🌐 Portfolio: [whoisanindya.vercel.app](https://whoisanindya.vercel.app)  
+- 📧 Email: anindyamajumder.54@gmail.com  
+- 💼 Open to research, internships & collaborations
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
