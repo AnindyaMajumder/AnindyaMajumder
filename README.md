@@ -48,7 +48,7 @@
 <h2 align="center">🛠️ Tech Stacks</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,git,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,bash,git,linux,vscode&perline=9" />
 </div>
 
 <hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
