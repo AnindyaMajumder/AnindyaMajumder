@@ -31,12 +31,12 @@
     <tr>
       <td>
         <ul>
-          <li>🧑‍🎓 Senior-Year CS Pupil | Teaching Assistant | Aspiring Software Engineer</li>
+          <li>🧑‍🎓 Fresh Grad | Aspiring Software Engineer | Ex-Teaching Assistant</li>
           <li>📚 Researching on Surgical Data Science</li>
           <li>💼 Ex-Assistant Director (Creative) @ BRACU Computer Club</li>
           <li>🤖 Former Core Team Member @ BRACU Mongol Tori</li>
           <li>🏆 15+ Certifications and Achievements</li>
-          <li>💬 Passionate about AI, Computer Vision, and Scalable Solutions</li>
+          <li>💬 Passionate about Software Engineering, AI, Computer Vision, and Scalable Solutions</li>
         </ul>
       </td>
     </tr>
@@ -73,10 +73,15 @@
       <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
     </tr>
     <tr>
+      <td>💠 <b>AI Dubbed Youtube Video - DubAI</b></td>
+      <td>Demucs, Whisper, Gemini, and GTTS</td>
+      <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+    </tr>
+<!--     <tr>
       <td>✨ <b>Portfolio</b></td>
       <td>Next.js, Tailwind, Framer Motion</td>
       <td><img src="https://img.shields.io/badge/🔥-LIVE-38B6FF?style=for-the-badge&logoColor=white" alt="Live" /></td>
-    </tr>
+    </tr> -->
     <tr>
       <td>🕵️ <b>Real-Time Signboard Detection</b></td>
       <td>Python, YOLOv5, Jupyter Notebook</td>
