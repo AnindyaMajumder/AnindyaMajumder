@@ -31,12 +31,10 @@
     <tr>
       <td>
         <ul>
-          <li>🧑‍🎓 Fresh Grad | Aspiring Software Engineer | Ex-Teaching Assistant</li>
-          <li>📚 Researching on Surgical Data Science</li>
-          <li>💼 Ex-Assistant Director (Creative) @ BRACU Computer Club</li>
-          <li>🤖 Former Core Team Member @ BRACU Mongol Tori</li>
-          <li>🏆 15+ Certifications and Achievements</li>
-          <li>💬 Passionate about Software Engineering, AI, Computer Vision, and Scalable Solutions</li>
+          <li>🧑‍🎓 AI Developer | Aspiring Software Engineer | Ex-Teaching Assistant</li>
+          <li>📚 Researching on Vision Language Models</li>
+          <li>🏆 20+ Certifications and Achievements</li>
+          <li>💬 Passionate about Software Engineering, AI, Computer Vision, NLP and Scalable Solutions</li>
         </ul>
       </td>
     </tr>
@@ -73,8 +71,8 @@
       <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
     </tr>
     <tr>
-      <td>💠 <b>AI Dubbed Youtube Video - DubAI</b></td>
-      <td>Demucs, Whisper, Gemini, and GTTS</td>
+      <td>💠 <b>Learn English AI</b></td>
+      <td>LangGraph, LangChain</td>
       <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
     </tr>
 <!--     <tr>
@@ -84,7 +82,7 @@
     </tr> -->
     <tr>
       <td>🕵️ <b>Real-Time Signboard Detection</b></td>
-      <td>Python, YOLOv5, Jupyter Notebook</td>
+      <td>Python, YOLOv5, PaddleOCR</td>
       <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
     </tr>
   </table>
@@ -96,9 +94,9 @@
 
 <div align="center">
   <!-- GitHub Stats Card with Matrix Animation -->
-  <a href="https://github.com/AnindyaMajumder">
+  <!-- <a href="https://github.com/AnindyaMajumder">
     <img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&icon_color=38B6FF&text_color=81D4FA&card_width=300&rank_icon=github" width="49%" alt="GitHub Stats" />
-  </a>
+  </a> -->
   
   <!-- Streak Stats Card with Matrix Animation -->
   <a href="https://github.com/AnindyaMajumder">
