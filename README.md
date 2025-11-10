@@ -103,17 +103,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=dark&hide_border=true&background=051937&stroke=38B6FF&ring=38B6FF&fire=A181F4&currStreakLabel=38B6FF&sideNums=81D4FA&currStreakNum=81D4FA&sideLabels=38B6FF&dates=81D4FA" width="49%" alt="Streak Stats" />
   </a>
   
-  <br/>
-  
   <!-- Most Used Languages -->
   <a href="https://github.com/AnindyaMajumder">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnindyaMajumder&layout=compact&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&text_color=81D4FA&langs_count=6&card_width=400" width="44%" alt="Top Languages" />
   </a>
   
   <!-- GitHub Trophy Animation -->
-  <a href="https://github.com/AnindyaMajumder">
+  <!-- <a href="https://github.com/AnindyaMajumder">
     <img src="https://github-profile-trophy.vercel.app/?username=AnindyaMajumder&theme=algolia&no-frame=true&column=-1&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="54%" alt="Trophies" />
-  </a>
+  </a> -->
   
   <br/>
   <!-- Enhanced Animated Activity Graph -->
