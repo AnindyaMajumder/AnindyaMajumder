@@ -29,32 +29,28 @@ My stack lives at the intersection of **Agentic AI**, **RAG pipelines**, **backe
 ## ⬡ &nbsp;system architecture
 
 ```
-                    ┌──────────────────────────────────────────────────────────┐
-                    │           ANINDYA MAJUMDER  //  AI ENGINEER              │
-                    └───────────────────────────┬──────────────────────────────┘
-                                                │
-             ┌──────────────────────────────────┼─────────────────────────────────┐
-             │                                  │                                 │
-             ▼                                  ▼                                 ▼
-  ┌───────────────────────┐       ┌─────────────────────────┐       ┌──────────────────────────┐
-  │      DATA LAYER       │       │      AGENT LAYER        │       │   ORCHESTRATION LAYER    │
-  │                       │       │                         │       │                          │
-  │  PostgreSQL           │──────▶│  LangGraph              │──────▶│  n8n  ·  GitHub Actions  │
-  │  MongoDB  ·  Neo4j    │       │  LangChain  ·  ADK      │       │  Docker  ·  Kubernetes   │
-  │  ChromaDB  ·  FAISS   │       │  Graph-RAG  ·  RAG      │       │  AWS  ·  VPS             │
-  │  PineCone             │       │  Custom MCP Servers     │       │  Playwright  ·  Scrapy   │
-  └───────────────────────┘       └─────────────────────────┘       └──────────────────────────┘
-             │                                  │                                 │
-             └──────────────────────────────────┼─────────────────────────────────┘
-                                                │
-                                                ▼
-                                  ┌─────────────────────────┐
-                                  │      SERVING LAYER      │
-                                  │                         │
-                                  │  FastAPI  ·  REST APIs  │
-                                  │  Spring Boot            │
-                                  │  Microservices  ·  JWT  │
-                                  └─────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    ANINDYA MAJUMDER  //  AI ENGINEER                        │
+└──────────────────────────────────┬───────────────────────────────────────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                │                  │                  │
+                ▼                  ▼                  ▼
+┌────────────────────────┐ ┌────────────────────────────┐ ┌──────────────────────────┐
+│      DATA LAYER        │ │ AI & AUTOMATION LAYER      │ │      BACKEND LAYER       │
+│ PostgreSQL             │ │ LangChain · LangGraph      │ │ FastAPI · Spring Boot     │
+│ MongoDB · Neo4j        │ │ ADK · Graph-RAG            │ │ REST APIs · JWT           │
+│ ChromaDB · FAISS       │ │ n8n · Playwright · Scrapy  │ │ Microservices · Maven     │
+│ PineCone · MySQL       │ │ PyTorch · OpenCV           │ │ Java · Python             │
+└────────────────────────┘ └────────────────────────────┘ └──────────────────────────┘
+                                   │
+                                   ▼
+                      ┌────────────────────────────────┐
+                      │         DEVOPS LAYER           │
+                      │ GitHub Actions · Docker        │
+                      │ Kubernetes · AWS · VPS         │
+                      │ CI/CD · Containerization       │
+                      └────────────────────────────────┘
 ```
 
 ---
@@ -139,23 +135,16 @@ open_to:
               Hybrid Loss Function  ·  Advanced ROI Extraction
   RESULT   :  Dice Score ↑ 27% on pancreas & colon  (new benchmark)
   STAGE    :  ████████████████████░░░░  IN PROGRESS
-  WITH     :  Dr. Md. Golam Rabiul Alam  ·  Md. Saiful Islam
 
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  PROJECT  :  Diffusion-based NIR Colorization — Night Vision Enhancement
-  DATASET  :  NIR2RGB VCIP Dataset
-  METHOD   :  Modified Diffusion Model  ·  ILVR-style Refinement
-  RESULT   :  PSNR 22.7 dB  ·  SSIM 0.67  (outperforms GAN & U-Net baselines)
-  STAGE    :  ████████████░░░░░░░░░░░░  ON HOLD
-  WITH     :  Dr. Md. Ashraful Alam
 ```
 
 ---
 
 ## ⬡ &nbsp;production.impact
 
-Things I've shipped that moved the needle:
+Impact-driven systems I've shipped that moved the needle:
 
 ```
 ✦  Reduced LLM token costs in production
@@ -167,14 +156,23 @@ Things I've shipped that moved the needle:
 ✦  Engineered Graph-RAG + re-ranker pipelines
    → deployed in legal chatbot applications
 
-✦  Multi-agent NLQ system
+✦  Built vectorless RAG pipelines
+   → schema-aware retrieval over structured knowledge without vector databases using pgvector
+
+✦  Natural Language Query (NLQ) over relational database
    → natural language queries over PostgreSQL; real-time user progress tracking
 
-✦  Distilled & fine-tuned large generative models
+✦  Preference optimization for LLM alignment by Reinforcement Learning
+   → RLHF  +  DPO  +  GRPO for stronger instruction-following and response quality
+
+✦  Parameter-efficient fine-tuning in constrained environments
+   → LoRA  +  QLoRA adapters for low-VRAM domain adaptation and faster iteration
+
+✦  Distilled large generative models for deployment
    → niche-specific variants with reduced latency and lower resource footprint
 
 ✦  End-to-end CI/CD pipelines
-   → GitHub Actions  ·  containerised builds  ·  automated test & deploy
+   → GitHub Actions  ·  Containerised builds  ·  automated test & deploy
 ```
 
 ---
@@ -183,16 +181,16 @@ Things I've shipped that moved the needle:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnindyaMajumder&theme=github_dark" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnindyaMajumder&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=github_dark" height="160"/>
 
 </div>
 
 ---
 
 <details>
-<summary>⬡ &nbsp;<strong>credentials.log</strong> &nbsp;— certifications · awards · achievements · extracurriculars</summary>
+<summary>⬡ &nbsp;<strong>credentials.log</strong> &nbsp;— certifications · awards </summary>
 
 <br>
 
@@ -201,21 +199,20 @@ Things I've shipped that moved the needle:
   │  CERTIFICATIONS & SPECIALISATIONS                                            │
   └──────────────────────────────────────────────────────────────────────────────┘
 
-  ✦  LangChain for LLM Application Development              [VERIFIED]
+  ✦  LangChain for LLM Application Development - Skill Track  
+     DataCamp         
      Build production-ready RAG pipelines and agentic systems
      using the LangChain framework
 
-  ✦  Machine Learning Specialization                        [VERIFIED]
-     Stanford University  ·  Coursera  ·  April 2024
+  ✦  Machine Learning Specialization                       
+     Stanford University  ·  Coursera 
      Supervised learning, neural networks, decision trees,
      unsupervised learning, recommender systems, deep RL
 
-  ✦  Containerization & Virtualization Skill Track          [VERIFIED]
-     Docker & Kubernetes  ·  DataCamp
-     Container management, Kubernetes orchestration,
+  ✦  Containerization & Virtualization - Skill Track  
+     DataCamp
+     Docker & Docker compose, Container management, Kubernetes orchestration,
      scalable and resilient application deployment
-     [ 4 courses completed ]
-
 
   ┌──────────────────────────────────────────────────────────────────────────────┐
   │  COMPETITIONS & AWARDS                                                       │
@@ -229,27 +226,8 @@ Things I've shipped that moved the needle:
      Top 9 of 100+ competing teams
      DSA problem-solving under time pressure
 
-  ✦  Regional Participant  —  Bangladesh Mathematical Olympiad (BdMO) 2020
+  ✦  Ranked 2nd in Asia at the MARS Society's University Rover Challenge held in Utah, USA.
 
-  ✦  Regional Participant  —  Bangladesh Physics Olympiad (BdPhO) 2019
-
-
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  ACADEMIC HONOURS  —  BRAC University                                        │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  ✦  Vice Chancellor's List  ×2     →  top academic distinction
-  ✦  Dean's List              ×5     →  consistent semester excellence
-  ✦  Academic Merit Scholarship          →  result-based award
-
-
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  EXTRACURRICULARS                                                            │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  ✦  Core Team Member  —  BRACU Mongol-Tori  (Mars Rover Team)
-  ✦  Assistant Director  —  BRACU Computer Club
-  ✦  Executive, Content Planning  —  Hult Prize at BRACU
 ```
 
 </details>
