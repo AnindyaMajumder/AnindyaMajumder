@@ -1,14 +1,23 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  anindya@systems:~$  whoami                                      ║
+║  anindya@systems:~$ whoami                                       ║
+║  anindya                                                         ║
+║                                                                  ║
+║  anindya@systems:~$ role --current                               ║
+║  AI & Automation Engineer                                         ║
+║                                                                  ║
+║  anindya@systems:~$ cat mission.txt                              ║
+║  I build intelligent systems that actually ship.                 ║
+║  My stack lives at the intersection of Agentic AI, RAG           ║
+║  pipelines, backend architecture, and automated deployment.       ║
+║  I don't just build models; I build the infrastructure around     ║
+║  them.                                                            ║
+║                                                                  ║
+║  anindya@systems:~$ echo "$STACK"                                ║
+║  Agentic AI · RAG Pipelines · Backend Engineering · CI/CD         ║
+║  Automation · Workflow Orchestration                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-**AI Software Engineer** — I build intelligent systems that actually ship.
-
-My stack lives at the intersection of **Agentic AI**, **RAG pipelines**, **backend architecture**, and **automated deployment**. I don't just build models — I build the infrastructure around them.
-
-→ &nbsp;`Agentic AI` &nbsp;`RAG Pipelines` &nbsp;`Backend Engineering` &nbsp;`CI/CD Automation` &nbsp;`Workflow Orchestration`
 
 <br>
 
@@ -26,7 +35,7 @@ My stack lives at the intersection of **Agentic AI**, **RAG pipelines**, **backe
 
 ---
 
-## ⬡ &nbsp;system architecture
+## ⬡ &nbsp;system.archi
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -37,7 +46,7 @@ My stack lives at the intersection of **Agentic AI**, **RAG pipelines**, **backe
                 │                  │                  │
                 ▼                  ▼                  ▼
 ┌────────────────────────┐ ┌────────────────────────────┐ ┌──────────────────────────┐
-│      DATA LAYER        │ │ AI & AUTOMATION LAYER      │ │      BACKEND LAYER       │
+│      DATABASE LAYER    │ │ AI & AUTOMATION LAYER      │ │      BACKEND LAYER       │
 │ PostgreSQL             │ │ LangChain · LangGraph      │ │ FastAPI · Spring Boot     │
 │ MongoDB · Neo4j        │ │ ADK · Graph-RAG            │ │ REST APIs · JWT           │
 │ ChromaDB · FAISS       │ │ n8n · Playwright · Scrapy  │ │ Microservices · Maven     │
@@ -61,10 +70,10 @@ My stack lives at the intersection of **Agentic AI**, **RAG pipelines**, **backe
 # anindya.yaml — v2026
 
 name:       Anindya Majumder
-role:       AI Software Engineer
+role:       AI Workflow Automation Engineer
 location:   Dhaka, Bangladesh
 status:     active
-currently:  RiseUp Labs Ltd.  →  AI Workflow Automation Engineer
+currently:  RiseUp Labs Ltd. 
 
 specialisations:
   - agentic_systems        # multi-agent architectures, MCP servers, tool-use
@@ -79,7 +88,7 @@ open_to:
   - open_source_projects
 ```
 
----
+<!-- ---
 
 ## ⬡ &nbsp;deployed.services
 
@@ -114,37 +123,11 @@ open_to:
   STACK    :  Raspberry Pi  ·  Python  ·  OpenCV  ·  Haar Cascade
   DEMO     :  youtu.be/vp3VAwmdAKc
   STATUS   :  ● RUNNING
-```
+``` -->
 
 ---
 
-## ⬡ &nbsp;research.pipeline
-
-```
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  RESEARCH //  STATUS BOARD                                                   │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  [INGEST]────▶[DESIGN]────▶[TRAIN]────▶[EVALUATE]────▶[PUBLISH]
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  PROJECT  :  Hierarchical Transformer — Intraoperative Organ Segmentation
-  DATASET  :  Dresden Surgical Anatomy Dataset
-  METHOD   :  DINOv2 backbone  ·  Multi-scale Cross-Attention Decoder
-              Hybrid Loss Function  ·  Advanced ROI Extraction
-  RESULT   :  Dice Score ↑ 27% on pancreas & colon  (new benchmark)
-  STAGE    :  ████████████████████░░░░  IN PROGRESS
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```
-
----
-
-## ⬡ &nbsp;production.impact
-
-Impact-driven systems I've shipped that moved the needle:
+## ⬡ &nbsp;prod.impact
 
 ```
 ✦  Reduced LLM token costs in production
