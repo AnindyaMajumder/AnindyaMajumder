@@ -1,21 +1,21 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  anindya@systems:~$ whoami                                       ║
-║  anindya                                                         ║
+║  Anindya Majumder                                                ║
 ║                                                                  ║
 ║  anindya@systems:~$ role --current                               ║
-║  AI & Automation Engineer                                         ║
+║  AI & Automation Engineer                                        ║
 ║                                                                  ║
 ║  anindya@systems:~$ cat mission.txt                              ║
-║  I build intelligent systems that actually ship.                 ║
+║  I build intelligent systems that ship and scale.                ║
 ║  My stack lives at the intersection of Agentic AI, RAG           ║
-║  pipelines, backend architecture, and automated deployment.       ║
-║  I don't just build models; I build the infrastructure around     ║
-║  them.                                                            ║
+║  pipelines, backend architecture, and automated deployment.      ║
+║  I don't just write code; I build the infrastructure around      ║
+║  them.                                                           ║
 ║                                                                  ║
 ║  anindya@systems:~$ echo "$STACK"                                ║
-║  Agentic AI · RAG Pipelines · Backend Engineering · CI/CD         ║
-║  Automation · Workflow Orchestration                              ║
+║  Agentic AI · RAG Pipelines · Backend Engineering · CI/CD        ║
+║  Automation · Workflow Orchestration · Cloud (AWS · VPS)         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -38,28 +38,28 @@
 ## ⬡ &nbsp;system.archi
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                    ANINDYA MAJUMDER  //  AI ENGINEER                        │
-└──────────────────────────────────┬───────────────────────────────────────────┘
-                                   │
-                ┌──────────────────┼──────────────────┐
-                │                  │                  │
-                ▼                  ▼                  ▼
-┌────────────────────────┐ ┌────────────────────────────┐ ┌──────────────────────────┐
-│      DATABASE LAYER    │ │ AI & AUTOMATION LAYER      │ │      BACKEND LAYER       │
-│ PostgreSQL             │ │ LangChain · LangGraph      │ │ FastAPI · Spring Boot     │
-│ MongoDB · Neo4j        │ │ ADK · Graph-RAG            │ │ REST APIs · JWT           │
-│ ChromaDB · FAISS       │ │ n8n · Playwright · Scrapy  │ │ Microservices · Maven     │
-│ PineCone · MySQL       │ │ PyTorch · OpenCV           │ │ Java · Python             │
-└────────────────────────┘ └────────────────────────────┘ └──────────────────────────┘
-                                   │
-                                   ▼
-                      ┌────────────────────────────────┐
-                      │         DEVOPS LAYER           │
-                      │ GitHub Actions · Docker        │
-                      │ Kubernetes · AWS · VPS         │
-                      │ CI/CD · Containerization       │
-                      └────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────────┐
+│                          ANINDYA MAJUMDER  //  AI ENGINEER                                │
+└──────────────────────────────────────────┬─────────────────────────────────────────────────┘
+                                           │
+                    ┌──────────────────────┼──────────────────────┐
+                    │                      │                      │
+                    ▼                      ▼                      ▼
+┌────────────────────────────┐ ┌────────────────────────────┐ ┌────────────────────────────┐
+│       DATABASE LAYER       │ │   AI & AUTOMATION LAYER    │ │       BACKEND LAYER        │
+│ MySQL · PostgreSQL         │ │ LangChain · LangGraph      │ │ FastAPI · Spring Boot      │
+│ MongoDB · Neo4j            │ │ ADK · Graph-RAG            │ │ REST APIs · JWT · WebSocket│
+│ ChromaDB · FAISS           │ │ n8n · Playwright · Scrapy  │ │ Microservices · GraphQL    │
+│ Pinecone · AstraDB         │ │ PyTorch · OpenCV           │ │ Java · Python              │
+└────────────────────────────┘ └────────────────────────────┘ └────────────────────────────┘
+                                           │
+                                           ▼
+                          ┌────────────────────────────────────┐
+                          │            DEVOPS LAYER            │
+                          │       GitHub Actions · CI/CD       │
+                          │     Docker · Kubernetes · Nginx    │
+                          │             AWS · VPS              │
+                          └────────────────────────────────────┘
 ```
 
 ---
@@ -71,9 +71,9 @@
 
 name:       Anindya Majumder
 role:       AI Workflow Automation Engineer
+currently:  RiseUp Labs Ltd. 
 location:   Dhaka, Bangladesh
 status:     active
-currently:  RiseUp Labs Ltd. 
 
 specialisations:
   - agentic_systems        # multi-agent architectures, MCP servers, tool-use
@@ -172,27 +172,24 @@ open_to:
 
 ---
 
-<details>
-<summary>⬡ &nbsp;<strong>credentials.log</strong> &nbsp;— certifications · awards </summary>
+## ⬡ &nbsp;credentials.log
 
-<br>
-
-```
+```text
   ┌──────────────────────────────────────────────────────────────────────────────┐
   │  CERTIFICATIONS & SPECIALISATIONS                                            │
   └──────────────────────────────────────────────────────────────────────────────┘
 
-  ✦  LangChain for LLM Application Development - Skill Track  
-     DataCamp         
+  ✦  LangChain for LLM Application Development - Skill Track
+     DataCamp
      Build production-ready RAG pipelines and agentic systems
      using the LangChain framework
 
-  ✦  Machine Learning Specialization                       
-     Stanford University  ·  Coursera 
+  ✦  Machine Learning Specialization
+     Stanford University  ·  Coursera
      Supervised learning, neural networks, decision trees,
      unsupervised learning, recommender systems, deep RL
 
-  ✦  Containerization & Virtualization - Skill Track  
+  ✦  Containerization & Virtualization - Skill Track
      DataCamp
      Docker & Docker compose, Container management, Kubernetes orchestration,
      scalable and resilient application deployment
@@ -202,23 +199,22 @@ open_to:
   └──────────────────────────────────────────────────────────────────────────────┘
 
   ✦  Rank #39  —  Machine Learning Olympiad 2024
-     Google Developer Group (GDG) Bangladesh
-     Top 39 out of hundreds of participants nationwide
+     Google Developer Group (GDG)
+     Top 39 out of hundreds of participants
 
   ✦  Finalist  —  IEEE CS Spectrum: Code Crash 2023
      Top 9 of 100+ competing teams
-     DSA problem-solving under time pressure
+     DSA problem-solving under constrain time
 
-  ✦  Ranked 2nd in Asia at the MARS Society's University Rover Challenge held in Utah, USA.
-
+  ✦  Ranked 2nd in Asia  —  University Rover Challenge 2023
+     The MARS Society, NASA
+     Held in Utah, USA
 ```
-
-</details>
 
 ---
 
 <br>
 
 ```
-anindya@systems:~$ echo "Let's build something worth deploying."
+anindya@systems:~$ echo "Let's build something worth impactful"
 ```
