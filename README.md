@@ -35,11 +35,13 @@ vector_db = ChromaDB | FAISS | Pinecone
 graph_db = Neo4j | AstraDB
 
 [02.AI_ML]
-frameworks = LangChain | LangGraph | ADK
-libraries = PyTorch | OpenCV
+frameworks = LangChain | LangGraph | ADK | CrewAI
+libraries = PyTorch | OpenCV | Ray Serve
 
 [03.AUTOMATIONS]
-orchestration = n8n | Playwright | Scrapy | Claude Code
+workflow_orchestration = n8n | Make | Zapier 
+scrapers = Scrapy | Playwright 
+crawlers = Crawl4AI | Beautiful Soup
 
 [04.BACKEND]
 frameworks = FastAPI | Spring Boot
