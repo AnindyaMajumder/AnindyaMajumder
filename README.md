@@ -90,9 +90,9 @@ engineering_policy:
     - keep_rollbacks_ready
 
 current_focus:
-  - agentic product engineering
-  - rag quality evaluation and guardrails
-  - backend and automation systems
+  - agentic systems design and orchestration
+  - scalable AI and backend architecture
+  - reliable production delivery and observability
 
 open_to:
   - research_collaboration
