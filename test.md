@@ -1,86 +1,99 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  anindya@systems:~$ whoami                                       ║
-║  Anindya Majumder                                                ║
-║                                                                  ║
-║  anindya@systems:~$ role --current                               ║
-║  AI & Automation Engineer                                        ║
-║                                                                  ║
-║  anindya@systems:~$ cat mission.txt                              ║
-║  I build intelligent systems that ship and scale.                ║
-║  My stack lives at the intersection of Agentic AI, RAG           ║
-║  pipelines, backend architecture, and automated deployment.      ║
-║  I don't just write code; I build the infrastructure around      ║
-║  them.                                                           ║
-║                                                                  ║
-║  anindya@systems:~$ echo "$STACK"                                ║
-║  Agentic AI · RAG Pipelines · Backend Engineering · CI/CD        ║
-║  Automation · Workflow Orchestration · Cloud (AWS · VPS)         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+```bash
+anindya@systems:~$ whoami
+Anindya Majumder
 
-<br>
+anindya@systems:~$ role --current
+AI & Automation Engineer
+
+anindya@systems:~$ echo "$MISSION"
+I build intelligent systems that ship and scale.
+
+anindya@systems:~$ echo "$STACK"
+Agentic AI | RAG Pipelines | Backend Engineering | CI/CD | Workflow Orchestration | Cloud (AWS, VPS)
+```
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/anindya.pro-0d1117?style=for-the-badge&logo=firefox&logoColor=79c0ff&labelColor=161b22)](https://anindya.pro)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/anindya-majumder)
-&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-in&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/anindya-majumder)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=79c0ff&labelColor=161b22)](https://github.com/AnindyaMajumder)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=AnindyaMajumder&style=for-the-badge&color=161b22&labelColor=161b22&label=VISITORS&abbreviated=true)
+
+![Visitors](https://komarev.com/ghpvc/?username=AnindyaMajumder&style=flat-square&color=161b22&label=visitors)
 
 </div>
 
 ---
 
-## ⬡ &nbsp;system.archi
+## system.archi
 
+```bash
+anindya@systems:~$ arch --stack --view layers
 ```
-┌────────────────────────────────────────────────────────────────────────────────────────────┐
-│                          ANINDYA MAJUMDER  //  AI ENGINEER                                │
-└──────────────────────────────────────────┬─────────────────────────────────────────────────┘
-                                           │
-                    ┌──────────────────────┼──────────────────────┐
-                    │                      │                      │
-                    ▼                      ▼                      ▼
-┌────────────────────────────┐ ┌────────────────────────────┐ ┌────────────────────────────┐
-│       DATABASE LAYER       │ │   AI & AUTOMATION LAYER    │ │       BACKEND LAYER        │
-│ MySQL · PostgreSQL         │ │ LangChain · LangGraph      │ │ FastAPI · Spring Boot      │
-│ MongoDB · Neo4j            │ │ ADK · Graph-RAG            │ │ REST APIs · JWT · WebSocket│
-│ ChromaDB · FAISS           │ │ n8n · Playwright · Scrapy  │ │ Microservices · GraphQL    │
-│ Pinecone · AstraDB         │ │ PyTorch · OpenCV           │ │ Java · Python              │
-└────────────────────────────┘ └────────────────────────────┘ └────────────────────────────┘
-                                           │
-                                           ▼
-                          ┌────────────────────────────────────┐
-                          │            DEVOPS LAYER            │
-                          │       GitHub Actions · CI/CD       │
-                          │     Docker · Kubernetes · Nginx    │
-                          │             AWS · VPS              │
-                          └────────────────────────────────────┘
+```ini
+[01.DATABASE]
+engines = PostgreSQL | MySQL | MongoDB | Neo4j
+vector_graph = ChromaDB | FAISS | Pinecone | AstraDB
+
+[02.AI_ML]
+frameworks = LangChain | LangGraph | ADK
+retrieval = Graph-RAG | Semantic Re-ranker
+models_cv = PyTorch | OpenCV
+
+[03.AUTOMATIONS]
+orchestration = n8n | Playwright | Scrapy | Claude Code
+
+[04.BACKEND]
+frameworks = FastAPI | Spring Boot
+protocols = REST | GraphQL | JWT | WebSocket
+languages = Python | Java
+
+[05.DEVOPS]
+pipelines = GitHub Actions | CI/CD
+runtime = Docker | Kubernetes | Nginx
+infra = AWS | VPS
 ```
 
 ---
 
-## ⬡ &nbsp;core.config
+## core.config
+
+```bash
+anindya@systems:~$ cat /etc/anindya/core.config
+```
 
 ```yaml
-# anindya.yaml — v2026
+profile:
+  name: Anindya Majumder
+  role: AI Workflow Automation Engineer
+  current: RiseUp Labs Ltd.
+  location: Dhaka, Bangladesh
+  status: active
 
-name:       Anindya Majumder
-role:       AI Workflow Automation Engineer
-currently:  RiseUp Labs Ltd. 
-location:   Dhaka, Bangladesh
-status:     active
+operating_mode:
+  default: production-first
+  mindset:
+    - systems_thinking
+    - outcome_over_hype
+    - iterate_fast_measure_faster
+  constraints:
+    - latency_budget_awareness
+    - token_cost_discipline
+    - reliability_before_scale
 
-specialisations:
-  - agentic_systems        # multi-agent architectures, MCP servers, tool-use
-  - rag_pipelines          # graph-RAG, re-rankers, semantic search, VectorDBs
-  - backend_engineering    # FastAPI, Spring Boot, REST, microservices
-  - workflow_automation    # n8n, Playwright, Scrapy, LLM-powered pipelines
-  - devops                 # Docker, Kubernetes, GitHub Actions, AWS, CI/CD
+engineering_policy:
+  architecture_rules:
+    - design_for_observability
+    - fail_gracefully_and_recover
+    - secure_tool_boundaries
+  delivery_rules:
+    - test_before_release
+    - automate_every_repeatable_step
+    - keep_rollbacks_ready
+
+current_focus:
+  - agentic product engineering
+  - rag quality evaluation and guardrails
+  - backend and automation systems
 
 open_to:
   - research_collaboration
@@ -88,133 +101,124 @@ open_to:
   - open_source_projects
 ```
 
-<!-- ---
-
-## ⬡ &nbsp;deployed.services
-
-```
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  SERVICES //  PRODUCTION                                                     │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  SERVICE  :  AI Lawyer  —  Personal Legal Assistant
-  DESC     :  Graph-RAG legal assistant with Neo4j knowledge graph
-              and Ragas QA validation pipeline
-  STACK    :  Python  ·  Graph RAG  ·  Neo4j  ·  Ragas
-  STATUS   :  ● RUNNING
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  SERVICE  :  Online Journal Publishing Platform
-  DESC     :  Full-stack publishing platform — JWT auth via Spring Security 6,
-              BART-powered auto-summaries, push notifications & admin moderation
-  STACK    :  Spring Boot  ·  React  ·  MongoDB  ·  BART
-  REPO     :  github.com/AnindyaMajumder/Online-Journal-Publishing-Platform
-  STATUS   :  ● RUNNING
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  SERVICE  :  WatchDog  —  AI Surveillance Bot
-  DESC     :  Remote surveillance robot with 2.4GHz wireless comms,
-              live video streaming, real-time face & object detection,
-              smoke / temperature / humidity environmental sensors
-  STACK    :  Raspberry Pi  ·  Python  ·  OpenCV  ·  Haar Cascade
-  DEMO     :  youtu.be/vp3VAwmdAKc
-  STATUS   :  ● RUNNING
-``` -->
-
 ---
 
-## ⬡ &nbsp;prod.impact
+## prod.impact
 
+```bash
+anindya@systems:~$ impact --scope production --format log
 ```
-✦  Reduced LLM token costs in production
-   → prompt caching  +  semantic re-ranking  +  dynamic model routing
 
-✦  Built custom MCP servers
-   → secure AI-to-database and AI-to-API connectivity for agentic systems
+```diff
+@@ impact.01 :: LLM cost optimization @@
++ method: prompt caching + semantic reranking + model routing
++ result: lower token burn in production traffic
 
-✦  Engineered Graph-RAG + re-ranker pipelines
-   → deployed in legal chatbot applications
+@@ impact.02 :: MCP connectivity layer @@
++ method: custom MCP servers for AI-to-DB and AI-to-API access
++ result: secure tool-connected agent workflows
 
-✦  Built vectorless RAG pipelines
-   → schema-aware retrieval over structured knowledge without vector databases using pgvector
+@@ impact.03 :: Legal AI deployment @@
++ method: Graph-RAG + reranker pipeline
++ result: production-grade retrieval quality for legal chatbot
 
-✦  Natural Language Query (NLQ) over relational database
-   → natural language queries over PostgreSQL; real-time user progress tracking
+@@ impact.04 :: Vectorless retrieval path @@
++ method: schema-aware retrieval with pgvector-assisted strategy
++ result: reliable structured knowledge retrieval
 
-✦  Preference optimization for LLM alignment by Reinforcement Learning
-   → RLHF  +  DPO  +  GRPO for stronger instruction-following and response quality
+@@ impact.05 :: NLQ over PostgreSQL @@
++ method: natural language query interface + live progress tracking
++ result: faster user-level analytics and operations
 
-✦  Parameter-efficient fine-tuning in constrained environments
-   → LoRA  +  QLoRA adapters for low-VRAM domain adaptation and faster iteration
+@@ impact.06 :: LLM alignment optimization @@
++ method: RLHF + DPO + GRPO
++ result: stronger instruction following and response quality
 
-✦  Distilled large generative models for deployment
-   → niche-specific variants with reduced latency and lower resource footprint
+@@ impact.07 :: Efficient fine-tuning @@
++ method: LoRA + QLoRA in constrained compute environments
++ result: lower VRAM adaptation with faster iteration cycles
 
-✦  End-to-end CI/CD pipelines
-   → GitHub Actions  ·  Containerised builds  ·  automated test & deploy
+@@ impact.08 :: Model distillation for serving @@
++ method: domain-specific distilled variants
++ result: reduced latency and lower inference footprint
+
+@@ impact.09 :: CI/CD automation @@
++ method: GitHub Actions + containerized build/test/deploy
++ result: faster and repeatable release pipelines
 ```
 
 ---
 
-## ⬡ &nbsp;github.telemetry
+## github.telemetry
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnindyaMajumder&theme=github_dark" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnindyaMajumder&theme=github_dark" height="160"/>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" />
+	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=f6f8fa&title_color=0969da&text_color=1f2328&icon_color=1f6feb" />
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" width="460" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
+	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=f6f8fa&color=0969da&line=1f6feb&point=1f2328&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-## ⬡ &nbsp;credentials.log
+<details>
+<summary><strong>credentials.log</strong></summary>
 
-```text
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  CERTIFICATIONS & SPECIALISATIONS                                            │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  ✦  LangChain for LLM Application Development - Skill Track
-     DataCamp
-     Build production-ready RAG pipelines and agentic systems
-     using the LangChain framework
-
-  ✦  Machine Learning Specialization
-     Stanford University  ·  Coursera
-     Supervised learning, neural networks, decision trees,
-     unsupervised learning, recommender systems, deep RL
-
-  ✦  Containerization & Virtualization - Skill Track
-     DataCamp
-     Docker & Docker compose, Container management, Kubernetes orchestration,
-     scalable and resilient application deployment
-
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │  COMPETITIONS & AWARDS                                                       │
-  └──────────────────────────────────────────────────────────────────────────────┘
-
-  ✦  Rank #39  —  Machine Learning Olympiad 2024
-     Google Developer Group (GDG)
-     Top 39 out of hundreds of participants
-
-  ✦  Finalist  —  IEEE CS Spectrum: Code Crash 2023
-     Top 9 of 100+ competing teams
-     DSA problem-solving under constrain time
-
-  ✦  Ranked 2nd in Asia  —  University Rover Challenge 2023
-     The MARS Society, NASA
-     Held in Utah, USA
+```bash
+anindya@systems:~$ credentials --list --format toml
 ```
+
+```toml
+[[certifications]]
+id = "CERT.01"
+title = "LangChain for LLM Application Development (Skill Track)"
+provider = "DataCamp"
+focus = ["Production-ready RAG", "Agentic workflows"]
+
+[[certifications]]
+id = "CERT.02"
+title = "Machine Learning Specialization"
+provider = "Stanford University / Coursera"
+focus = ["Supervised learning", "Neural networks", "Recommenders", "Deep RL"]
+
+[[certifications]]
+id = "CERT.03"
+title = "Containerization and Virtualization (Skill Track)"
+provider = "DataCamp"
+focus = ["Docker", "Compose", "Kubernetes", "Resilient deployment"]
+
+[[awards]]
+id = "AWARD.01"
+event = "Machine Learning Olympiad 2024 (GDG)"
+status = "Rank #39"
+
+[[awards]]
+id = "AWARD.02"
+event = "IEEE CS Spectrum: Code Crash 2023"
+status = "Finalist (Top 9)"
+
+[[awards]]
+id = "AWARD.03"
+event = "University Rover Challenge 2023 (NASA / Mars Society)"
+status = "Ranked 2nd in Asia"
+```
+
+</details>
 
 ---
 
-<br>
-
-```
-anindya@systems:~$ echo "Let's build something worth impactful"
+```bash
+anindya@systems:~$ echo "Let's build something impactful"
 ```
