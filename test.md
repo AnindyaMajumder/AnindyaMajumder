@@ -1,224 +1,125 @@
-```bash
-anindya@systems:~$ whoami
-Anindya Majumder
-
-anindya@systems:~$ role --current
-AI & Automation Engineer
-
-anindya@systems:~$ echo "$MISSION"
-I build intelligent systems that ship and scale.
-
-anindya@systems:~$ echo "$STACK"
-Agentic AI | RAG Pipelines | Backend Engineering | CI/CD | Workflow Orchestration | Cloud (AWS, VPS)
-```
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/anindya.pro-0d1117?style=for-the-badge&logo=firefox&logoColor=79c0ff&labelColor=161b22)](https://anindya.pro)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-in&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/anindya-majumder)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=79c0ff&labelColor=161b22)](https://github.com/AnindyaMajumder)
-
-![Visitors](https://komarev.com/ghpvc/?username=AnindyaMajumder&style=flat-square&color=161b22&label=visitors)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051937,100:2c4b7c&height=200&section=header&text=ANINDYA%20MAJUMDER&fontSize=50&fontColor=38B6FF&animation=twinkling&fontAlignY=38&descAlignY=55&descAlign=62&stroke=38B6FF&strokeWidth=1" width="100%" />
 </div>
 
----
-
-## system.archi
-
-```bash
-anindya@systems:~$ arch --stack --view layers
-```
-```ini
-[01.DATABASE]
-engines = PostgreSQL | MySQL | MongoDB | Neo4j
-vector_graph = ChromaDB | FAISS | Pinecone | AstraDB
-
-[02.AI_ML]
-frameworks = LangChain | LangGraph | ADK
-retrieval = Graph-RAG | Semantic Re-ranker
-models_cv = PyTorch | OpenCV
-
-[03.AUTOMATIONS]
-orchestration = n8n | Playwright | Scrapy | Claude Code
-
-[04.BACKEND]
-frameworks = FastAPI | Spring Boot
-protocols = REST | GraphQL | JWT | WebSocket
-languages = Python | Java
-
-[05.DEVOPS]
-pipelines = GitHub Actions | CI/CD
-runtime = Docker | Kubernetes | Nginx
-infra = AWS | VPS
-```
-
----
-
-## core.config
-
-```bash
-anindya@systems:~$ cat /etc/anindya/core.config
-```
-
-```yaml
-profile:
-  name: Anindya Majumder
-  role: AI Workflow Automation Engineer
-  current: RiseUp Labs Ltd.
-  location: Dhaka, Bangladesh
-  status: active
-
-operating_mode:
-  default: production-first
-  mindset:
-    - systems_thinking
-    - outcome_over_hype
-    - iterate_fast_measure_faster
-  constraints:
-    - latency_budget_awareness
-    - token_cost_discipline
-    - reliability_before_scale
-
-engineering_policy:
-  architecture_rules:
-    - design_for_observability
-    - fail_gracefully_and_recover
-    - secure_tool_boundaries
-  delivery_rules:
-    - test_before_release
-    - automate_every_repeatable_step
-    - keep_rollbacks_ready
-
-current_focus:
-  - agentic product engineering
-  - rag quality evaluation and guardrails
-  - backend and automation systems
-
-open_to:
-  - research_collaboration
-  - backend_and_ai_roles
-  - open_source_projects
-```
-
----
-
-## prod.impact
-
-```bash
-anindya@systems:~$ impact --scope production --format log
-```
-
-```diff
-@@ impact.01 :: LLM cost optimization @@
-+ method: prompt caching + semantic reranking + model routing
-+ result: lower token burn in production traffic
-
-@@ impact.02 :: MCP connectivity layer @@
-+ method: custom MCP servers for AI-to-DB and AI-to-API access
-+ result: secure tool-connected agent workflows
-
-@@ impact.03 :: Legal AI deployment @@
-+ method: Graph-RAG + reranker pipeline
-+ result: production-grade retrieval quality for legal chatbot
-
-@@ impact.04 :: Vectorless retrieval path @@
-+ method: schema-aware retrieval with pgvector-assisted strategy
-+ result: reliable structured knowledge retrieval
-
-@@ impact.05 :: NLQ over PostgreSQL @@
-+ method: natural language query interface + live progress tracking
-+ result: faster user-level analytics and operations
-
-@@ impact.06 :: LLM alignment optimization @@
-+ method: RLHF + DPO + GRPO
-+ result: stronger instruction following and response quality
-
-@@ impact.07 :: Efficient fine-tuning @@
-+ method: LoRA + QLoRA in constrained compute environments
-+ result: lower VRAM adaptation with faster iteration cycles
-
-@@ impact.08 :: Model distillation for serving @@
-+ method: domain-specific distilled variants
-+ result: reduced latency and lower inference footprint
-
-@@ impact.09 :: CI/CD automation @@
-+ method: GitHub Actions + containerized build/test/deploy
-+ result: faster and repeatable release pipelines
-```
-
----
-
-## github.telemetry
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=28&duration=3000&pause=500&color=38B6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Computer+Vision+Enthusiast" />
+</p>
 
 <div align="center">
+  <a href="https://whoisanindya.vercel.app">
+	<img src="https://img.shields.io/badge/PORTFOLIO-%2300bfff.svg?&style=for-the-badge&logo=firefox&logoColor=white&color=38B6FF" />
+  </a>
+  <a href="mailto:anindyamajumder.54@gmail.com">
+	<img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=38B6FF" />
+  </a>
+  <a href="https://www.linkedin.com/in/anindya-majumder">
+	<img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=38B6FF" />
+  </a>
+  <a href="#profile-views">
+	<img src="https://komarev.com/ghpvc/?username=AnindyaMajumder&label=VISITORS&color=38B6FF&style=for-the-badge" />
+  </a>
+</div>
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=f6f8fa&title_color=0969da&text_color=1f2328&icon_color=1f6feb" />
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" width="460" />
-</picture>
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
 
+<h2 align="center">🧠 About Me</h2>
+
+
+<div align="center">
+  <table>
+	<tr>
+	  <td>
+		<ul>
+		  <li>🧑‍🎓 AI Developer | Aspiring Software Engineer | Ex-Teaching Assistant</li>
+		  <li>📚 Researching on Vision Language Models</li>
+		  <li>🏆 20+ Certifications and Achievements</li>
+		  <li>💬 Passionate about Software Engineering, AI, Computer Vision, NLP and Scalable Solutions</li>
+		</ul>
+	  </td>
+	</tr>
+  </table>
+</div>
+
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
+
+<h2 align="center">🛠️ Tech Stacks</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,react,nextjs,tailwind,js,ts,html,css,spring,mongodb,fastapi,bash,git,linux,vscode&perline=9" />
+</div>
+
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
+
+<h2 align="center">🚀 Featured Projects </h2>
+
+<div align="center">
+  <table>
+	<tr>
+	  <th>⭐ PROJECT</th>
+	  <th>⚙️ TECHNOLOGY</th>
+	  <th>📌 STATUS</th>
+	</tr>
+	<tr>
+	  <td>📔 <b>Online Journal App</b></td>
+	  <td>React, Spring, BART, MongoDB</td>
+	  <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+	</tr>
+	<tr>
+	  <td>💠 <b>ShapeDrawer</b></td>
+	  <td>C#, Splashkit</td>
+	  <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+	</tr>
+	<tr>
+	  <td>💠 <b>Learn English AI</b></td>
+	  <td>LangGraph, LangChain</td>
+	  <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+	</tr>
+<!--     <tr>
+	  <td>✨ <b>Portfolio</b></td>
+	  <td>Next.js, Tailwind, Framer Motion</td>
+	  <td><img src="https://img.shields.io/badge/🔥-LIVE-38B6FF?style=for-the-badge&logoColor=white" alt="Live" /></td>
+	</tr> -->
+	<tr>
+	  <td>🕵️ <b>Real-Time Signboard Detection</b></td>
+	  <td>Python, YOLOv5, PaddleOCR</td>
+	  <td><img src="https://img.shields.io/badge/✅-COMPLETED-38B6FF?style=for-the-badge&logoColor=white" alt="Completed" /></td>
+	</tr>
+  </table>
+</div>
+
+<hr style="background-color: #38B6FF; height: 2px; border: none; margin: 20px 0;">
+
+<h2 align="center" id="profile-views">📊 Github Analytics</h2>
+
+<div align="center">
+  <!-- GitHub Stats Card with Matrix Animation -->
+  <!-- <a href="https://github.com/AnindyaMajumder">
+	<img src="https://github-readme-stats.vercel.app/api?username=AnindyaMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&icon_color=38B6FF&text_color=81D4FA&card_width=300&rank_icon=github" width="49%" alt="GitHub Stats" />
+  </a> -->
+  
+  <!-- Streak Stats Card with Matrix Animation -->
+  <a href="https://github.com/AnindyaMajumder">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnindyaMajumder&theme=dark&hide_border=true&background=051937&stroke=38B6FF&ring=38B6FF&fire=A181F4&currStreakLabel=38B6FF&sideNums=81D4FA&currStreakNum=81D4FA&sideLabels=38B6FF&dates=81D4FA" width="49%" alt="Streak Stats" />
+  </a>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github.com/AnindyaMajumder">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnindyaMajumder&layout=compact&theme=dark&hide_border=true&bg_color=051937&title_color=38B6FF&text_color=81D4FA&langs_count=6&card_width=400" width="44%" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Trophy Animation -->
+  <!-- <a href="https://github.com/AnindyaMajumder">
+	<img src="https://github-profile-trophy.vercel.app/?username=AnindyaMajumder&theme=algolia&no-frame=true&column=-1&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="54%" alt="Trophies" />
+  </a> -->
+  
+  <br/>
+  <!-- Enhanced Animated Activity Graph -->
+  <a href="https://github.com/AnindyaMajumder">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&theme=react-dark&bg_color=051937&color=38B6FF&line=38B6FF&point=81D4FA&area=true&hide_border=true&radius=16&height=300&custom_title=CONTRIBUTION%20MATRIX&title_color=38B6FF&line_width=2&point_size=5&area_color=A181F460" width="98%" alt="Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=f6f8fa&color=0969da&line=1f6feb&point=1f2328&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" width="100%" />
-</picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:051937,100:2c4b7c&animation=twinkling" width="100%" />
 </div>
-
----
-
-<details>
-<summary><strong>credentials.log</strong></summary>
-
-```bash
-anindya@systems:~$ credentials --list --format toml
-```
-
-```toml
-[[certifications]]
-id = "CERT.01"
-title = "LangChain for LLM Application Development (Skill Track)"
-provider = "DataCamp"
-focus = ["Production-ready RAG", "Agentic workflows"]
-
-[[certifications]]
-id = "CERT.02"
-title = "Machine Learning Specialization"
-provider = "Stanford University / Coursera"
-focus = ["Supervised learning", "Neural networks", "Recommenders", "Deep RL"]
-
-[[certifications]]
-id = "CERT.03"
-title = "Containerization and Virtualization (Skill Track)"
-provider = "DataCamp"
-focus = ["Docker", "Compose", "Kubernetes", "Resilient deployment"]
-
-[[awards]]
-id = "AWARD.01"
-event = "Machine Learning Olympiad 2024 (GDG)"
-status = "Rank #39"
-
-[[awards]]
-id = "AWARD.02"
-event = "IEEE CS Spectrum: Code Crash 2023"
-status = "Finalist (Top 9)"
-
-[[awards]]
-id = "AWARD.03"
-event = "University Rover Challenge 2023 (NASA / Mars Society)"
-status = "Ranked 2nd in Asia"
-```
-
-</details>
-
----
-
-```bash
-anindya@systems:~$ echo "Let's build something impactful"
-```
