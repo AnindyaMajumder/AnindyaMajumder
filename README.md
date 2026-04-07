@@ -1,4 +1,4 @@
-```bash
+```sh
 anindya@systems:~$ whoami
 Anindya Majumder
 
@@ -25,7 +25,7 @@ Agentic AI | RAG Pipelines | Backend Engineering | CI/CD | Workflow Orchestratio
 
 ## system.archi
 
-```bash
+```sh
 anindya@systems:~$ arch --stack --view layers
 ```
 ```ini
@@ -56,7 +56,7 @@ infra = AWS | VPS
 
 ## core.config
 
-```bash
+```sh
 anindya@systems:~$ cat /etc/anindya/core.config
 ```
 
@@ -104,7 +104,7 @@ open_to:
 
 ## prod.impact
 
-```bash
+```sh
 anindya@systems:~$ impact --scope production --format log
 ```
 
@@ -179,7 +179,7 @@ anindya@systems:~$ impact --scope production --format log
 <details>
 <summary><strong>credentials.log</strong></summary>
 
-```bash
+```sh
 anindya@systems:~$ credentials --list --format toml
 ```
 
@@ -222,6 +222,6 @@ status = "Ranked 2nd in Asia"
 
 ---
 
-```bash
+```sh
 anindya@systems:~$ echo "Let's build something impactful"
 ```
