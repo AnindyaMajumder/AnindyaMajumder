@@ -104,56 +104,6 @@ open_to:
 
 ---
 
-## prod.impact
-
-```sh
-anindya@systems:~$ impact --scope production --format log
-```
-
-```diff
-@@ impact.01 :: Token-Efficient LLM Routing @@
-+ method: prompt caching + semantic reranking + model routing
-+ result: lower token burn in production traffic
-
-@@ impact.02 :: MCP connectivity layer @@
-+ method: custom MCP servers for native AI-to-API access
-+ result: secure and fast tool-connected agent workflows
-
-@@ impact.03 :: Hallucination-Resistant Legal RAG @@
-+ method: Graph-RAG + reranker pipeline
-+ result: non-hallucinated retrieval quality for legal chatbot
-
-@@ impact.04 :: NLQ over PostgreSQL @@
-+ method: schema-aware retrieval with pgvector + live progress tracking
-+ result: faster structured, user-level analytics using natural language
-
-@@ impact.05 :: Instruction Fidelity Optimization @@
-+ method: RLHF + DPO + GRPO
-+ result: stronger instruction following and adapt user behavior
-
-@@ impact.06 :: Low-VRAM Adaptation Pipeline @@
-+ method: LoRA + QLoRA in constrained compute env
-+ result: lower VRAM adaptation with faster iteration cycles
-
-@@ impact.07 :: CI/CD automation @@
-+ method: GitHub Actions + containerized build/test/deploy
-+ result: faster and repeatable release pipelines
-
-@@ impact.08 :: Latency-Optimized Service Architecture @@
-+ method: layered caching + async job queues + read-replica routing
-+ result: lower p95 latency and higher throughput under peak load
-
-@@ impact.09 :: Zero-Downtime Delivery Strategy @@
-+ method: blue-green deployment + canary checks + infrastructure drift detection
-+ result: near-zero downtime releases with safer rollbacks and lower operations overhead
-
-@@ impact.10 :: Modular Architecture & Type Safety @@
-+ method: dependancy injection + design patterns (repository, factory, adapter, strategy, observer)
-+ result: faster onboarding, reduced bug surface, testable and scalable service
-```
-
----
-
 ## github.telemetry
 
 <div align="center">
