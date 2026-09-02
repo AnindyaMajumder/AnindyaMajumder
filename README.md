@@ -128,52 +128,6 @@ open_to:
 
 ---
 
-<details>
-<summary><strong>credentials.log</strong></summary>
-
-```sh
-anindya@systems:~$ credentials --list --format toml
-```
-
-```toml
-[[certifications]]
-id = "CERT.01"
-title = "LangChain for LLM Application Development (Skill Track)"
-provider = "DataCamp"
-focus = ["Production-ready RAG", "Agentic workflows"]
-
-[[certifications]]
-id = "CERT.02"
-title = "Machine Learning Specialization"
-provider = "Stanford University / Coursera"
-focus = ["Supervised learning", "Neural networks", "Unsupervised learning"]
-
-[[certifications]]
-id = "CERT.03"
-title = "Containerization and Virtualization (Skill Track)"
-provider = "DataCamp"
-focus = ["Docker", "Docker Compose", "Kubernetes", "Orchestration"]
-
-[[awards]]
-id = "AWARD.01"
-event = "Machine Learning Olympiad 2024 (GDG)"
-status = "Rank #39"
-
-[[awards]]
-id = "AWARD.02"
-event = "IEEE CS Spectrum: Code Crash 2023"
-status = "Finalist (Top 9)"
-
-[[awards]]
-id = "AWARD.03"
-event = "University Rover Challenge 2023 (NASA / Mars Society)"
-status = "Ranked 2nd in Asia"
-```
-
-</details>
-
----
-
 ```sh
 anindya@systems:~$ echo "Let's build something impactful"
 ```
