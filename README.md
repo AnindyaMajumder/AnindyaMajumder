@@ -1,133 +1,16 @@
-```sh
-anindya@systems:~$ whoami
-Anindya Majumder
-
-anindya@systems:~$ role --current
-AI & Automation Engineer
-
-anindya@systems:~$ echo "$MISSION"
-I build intelligent systems for in-house and production use that are optimized and scalable.
-
-anindya@systems:~$ echo "$STACK"
-Agentic AI | RAG Pipelines | Backend Engineering | CI/CD | Workflow Orchestration | Cloud (AWS, VPS)
-```
-
 <div align="center">
+
+<a href="https://anindya.pro"><img src="assets/htop.svg" alt="htop: anindya@dhaka running langgraph, rag, n8n, fastapi, kubectl. sleep is a zombie." width="100%" /></a>
 
 [![Portfolio](https://img.shields.io/badge/anindya.pro-0d1117?style=for-the-badge&logo=firefox&logoColor=79c0ff&labelColor=161b22)](https://anindya.pro)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-in&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/anindya-majumder)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=79c0ff&labelColor=161b22)](https://github.com/AnindyaMajumder)
 ![Visitors](https://komarev.com/ghpvc/?username=AnindyaMajumder&style=for-the-badge&color=000000&labelColor=000000&label=VISITORs)
 
-</div>
-
----
-
-## system.archi
-
-```sh
-anindya@systems:~$ arch --stack --view layers
-```
-```ini
-[01.DATABASE]
-classical_db = PostgreSQL | MySQL | MongoDB 
-vector_db = ChromaDB | FAISS | Pinecone
-graph_db = Neo4j | AstraDB
-
-[02.AI_ML]
-frameworks = LangChain | LangGraph | ADK | CrewAI
-libraries = PyTorch | OpenCV | Ray Serve
-
-[03.AUTOMATIONS]
-workflow_orchestration = n8n | Make | Zapier 
-scrapers = Scrapy | Playwright 
-crawlers = Crawl4AI | Beautiful Soup
-
-[04.BACKEND]
-frameworks = FastAPI | Spring Boot
-protocols = REST | GraphQL | JWT | WebSocket
-languages = Python | Java
-
-[05.DEVOPS]
-pipelines = GitHub Actions | Automated CI/CD
-runtime = Docker | Kubernetes | Nginx
-infra = AWS | VPS
-```
-
----
-
-## core.config
-
-```sh
-anindya@systems:~$ cat /etc/anindya/core.config
-```
-
-```yaml
-profile:
-  name: Anindya Majumder
-  role: AI Workflow Automation Engineer
-  current: RiseUp Labs Ltd.
-  location: Dhaka, Bangladesh
-  status: active
-
-operating_mode:
-  default: production-first
-  mindset:
-    - systems_thinking
-    - outcome_over_hype
-    - iterate_fast_measure_faster
-  constraints:
-    - latency_budget_awareness
-    - token_cost_discipline
-    - reliability_before_scale
-
-engineering_policy:
-  architecture_rules:
-    - design_for_observability
-    - fail_gracefully_and_recover
-    - secure_tool_boundaries
-  delivery_rules:
-    - test_before_release
-    - automate_repeatable_step
-    - keep_rollbacks_ready
-
-current_focus:
-  - agentic systems design and orchestration
-  - scalable AI and backend architecture
-  - reliable production delivery and observability
-
-open_to:
-  - research_collaboration
-  - backend_and_ai_roles
-  - open_source_projects
-```
-
----
-
-## github.telemetry
-
-<div align="center">
-
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=f6f8fa&title_color=0969da&text_color=1f2328&icon_color=1f6feb" />
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnindyaMajumder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff" width="460" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnindyaMajumder/AnindyaMajumder/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnindyaMajumder/AnindyaMajumder/output/pacman-contribution-graph.svg" />
+  <img alt="pacman eating my contribution graph" src="https://raw.githubusercontent.com/AnindyaMajumder/AnindyaMajumder/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
-
-<div align="center">
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=f6f8fa&color=0969da&line=1f6feb&point=1f2328&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMajumder&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Pulse%20Timeline" width="100%" />
-</picture>
-
-</div>
-
----
-
-```sh
-anindya@systems:~$ echo "Let's build something impactful"
-```
