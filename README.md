@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://anindya.pro"><img src="assets/htop.svg" alt="htop: anindya@dhaka running langgraph, rag, n8n, fastapi, kubectl. sleep is a zombie." width="100%" /></a>
+<a href="https://anindya.pro"><img src="assets/tokens.svg" alt="anindya builds with python, langgraph, langchain, pytorch, fastapi, redis, postgres, docker, kubernetes and more, shown as LLM tokens" width="100%" /></a>
 
 [![Portfolio](https://img.shields.io/badge/anindya.pro-0d1117?style=for-the-badge&logo=firefox&logoColor=79c0ff&labelColor=161b22)](https://anindya.pro)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-in&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/anindya-majumder)
